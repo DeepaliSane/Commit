@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Selenium/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Selenium/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Selenium/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Selenium/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Selenium/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/apache-commons.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/apache-httpcomponents-httpclient.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/apache-httpcomponents-httpcore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/apache-logging-log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/base-1.0.0-RC1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/checker-qual-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/elemental2-promise-1.0.0-RC1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/error_prone_annotations-2.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/guava-29.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/guava-gwt-29.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/jsinterop-annotations-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/selenium-java.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/commons-io-2.7/commons-io-2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/commons-io-2.7/commons-io-2.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/commons-io-2.7/commons-io-2.7-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/commons-io-2.7/commons-io-2.7-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/commons-io-2.7/commons-io-2.7-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/commons-codec-1.14/commons-codec-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/commons-codec-1.14/commons-codec-1.14-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/commons-codec-1.14/commons-codec-1.14-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/commons-codec-1.14/commons-codec-1.14-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/eclipse/Apache jars/commons-codec-1.14/commons-codec-1.14-test-sources.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
